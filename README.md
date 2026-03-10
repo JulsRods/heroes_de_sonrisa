@@ -19,6 +19,7 @@ El juego cuenta con 6 juegos básicos, también por el hecho que la fundación c
 - Juego de formas
 - Espacio libre de dibujo
 
+Vista del sistema en imagenes en celular https://imgur.com/a/icLMEnv
 
 
   
