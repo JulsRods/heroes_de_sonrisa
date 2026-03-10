@@ -1,7 +1,16 @@
 # heroes_de_sonrisa
 
-Un proyecto de una app básica de juegos realizada para la Fundación de Niños con Cáncer de codigo abierto
+A new Flutter project.
 
 ## Getting Started
 
-El juego cuenta con 6 juegos básicos, también por el hecho que la fundación cuenta con tablets, pero también los presupuestos de las familias son limitados por lo cuál los dispositivos son sencillos, esta app nace por el hecho de que los niños ocupan distraerse mientras reciben quimioterapias y demás.
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
